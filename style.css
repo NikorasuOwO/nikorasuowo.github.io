@@ -1,6 +1,5 @@
 H1{
-  width:462px;
-  height: 49px;
+  box-sizing: content-box;
   border: 3px solid;
   border-color: gray;
   text-shadow: 100;
