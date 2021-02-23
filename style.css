@@ -1,6 +1,4 @@
 H1{
-  box-sizing: content-box;
-  border: 3px solid;
   border-color: gray;
   text-shadow: 100;
 }
